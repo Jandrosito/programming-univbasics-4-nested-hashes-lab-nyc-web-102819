@@ -86,6 +86,7 @@ programmer_hash.merge!(:yukihiro_matsumoto => {
           :languages => ["LISP", "C"]
         })
     programer_hash[yukihiro_matsumoto]
+end
 
 def changing_alan
 	programmer_hash = 
